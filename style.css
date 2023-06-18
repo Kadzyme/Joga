@@ -77,22 +77,22 @@ body {
 }
 
 .item-img1 {
-  background-image: url(/images/joga.jpeg);
+  background-image: url("/images/joga.jpeg");
   background-position: right;
 }
 
 .item-img2 {
-  background-image: url(/images/joga2.jpg);
+  background-image: url("/images/joga2.jpg");
   background-position: center;
 }
 
 .item-img3 {
-  background-image: url(/images/joga3.webp);
+  background-image: url("/images/joga3.webp");
   background-position: left;
 }
 
 .item-img4 {
-  background-image: url(/images/joga4.jpeg);
+  background-image: url("/images/joga4.jpeg");
   background-position: right;
 }
 
